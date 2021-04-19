@@ -34,7 +34,12 @@ body{
     margin-left: 340px;
 }
 
-
+h1{
+    font: optional;
+    color: rgb(24, 153, 93);
+    position: absolute;
+    margin-left: 400px;
+}
 
 
 
